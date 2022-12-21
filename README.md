@@ -1,9 +1,14 @@
 ### Hi there 👋
-<h1 align="center">Hi ✌🏼, I'm Noah and I love programming</h1>
+<h1 align="center">hey! I'm Ahmed and I love programming!</h1>
+<h3 align="center">Software Engineer Intern @ Abbott</h3>
 <!--
 **askshahkhan/askshahkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<h3 align="left">Links:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmed-shahkhan-0a61971ba/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=["www.linkedin.com/in/noahjpark](https://www.linkedin.com/in/ahmed-shahkhan-0a61971ba/)" height="30" width="40" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
