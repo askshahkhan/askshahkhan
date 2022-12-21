@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Ahmed and I love programming!</h1>
 <h3 align="center">Software Engineer Intern @ Abbott</h3>
 
-<h3 align="left">Check out my LinkedIn 👇</h3>
+<h3 align="left">Check out my LinkedIn</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-shahkhan-0a61971ba/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=["www.linkedin.com/in/noahjpark](https://www.linkedin.com/in/ahmed-shahkhan-0a61971ba/)" height="30" width="40" /></a>
 
