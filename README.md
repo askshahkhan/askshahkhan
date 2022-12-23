@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer Intern @ Abbott & Lead TA</h3>
 
 <h1 align="center">⬇️</h1>
-
 <h1 align="center"><a href="https://www.linkedin.com/in/ahmed-shahkhan-0a61971ba/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-shahkhan-0a61971ba/" height="30" width="40" /></a></h1>
 
   
