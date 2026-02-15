@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Ahmed and I love programming!</h1>
+<h1 align="center">Hey 👋 I'm Ahmed</h1>
 <h3 align="center">SWE @ Detect Auto & M.S. @ Georgia Tech</h3>
 
 <p>Connect with me on LinkedIn!</p>
